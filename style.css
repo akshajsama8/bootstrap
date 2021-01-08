@@ -1,0 +1,86 @@
+body {
+	text-align: center;
+	background-color: #EF5350;
+	color: dodgerblue;
+	font-family: 'Nerko One', cursive;
+}
+
+h1 {
+	font-size: 40px;
+	font-family: 'Josefin Sans', sans-serif;
+	font-weight: 500;
+}
+
+h2 {
+	font-size: 30px;
+	font-family: 'Nerko One', cursive;
+	font-weight: 300;
+}
+
+#Game {
+	width: 100%;
+	height: 800px;
+	background-color: dodgerblue;
+}
+
+#Apps {
+	width: 100%;
+	height: 800px;
+	background-color: dodgerblue;
+}
+
+#Chatbot {
+	width: 100%;
+	height: 800px;
+	background-color: dodgerblue;
+}
+
+img {
+	transition: transform .2s;
+}
+
+img:hover {
+	transform: scale(0.9);
+}
+
+.line {
+	background-color: dodgerblue;
+	height: 6px;
+	width: 100px;
+	margin: 8px auto;
+}
+
+#ball {
+	border-radius: 30px;
+}
+
+.container {
+	text-align: center;
+}
+
+#my-carousel {
+	background-color: dodgerblue;
+	height: 250px;
+	margin-top: 35px;
+}
+
+#my-carousel img {
+	height: 300px;
+	margin-top: 35px;
+}
+
+.carousel-inner p {
+	margin-bottom: 15px;
+	margin-top: 15px;
+	color: white;
+	font-size: 20px;
+}
+
+#myCarousel2 {
+	background-color: #EF5350;
+}
+
+#myCarousel2 img {
+	height: 300px;
+	margin-top: 35px;
+}
